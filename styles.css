@@ -9,6 +9,7 @@
     height: 60px;
     color: white;
     display: flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -19,7 +20,7 @@
 .logo {
     background-image: url("/SVG/amazon_logo.png");
     height: 50px;
-     background-size: cover;   /* specifies the img size */
+    background-size: cover;   /* specifies the img size */
     width: 100%;
 }
 
@@ -32,9 +33,19 @@
 }
 
 .add-first{
-font-size: 0.85rem;     
+    color: #cccccc;
+    font-size: 0.85rem;   
+    margin-left: 15px;  
 }
 
 .add-second{
-
+    font-size: 0.85rem;  
+    margin-left: 3px;
 }
+
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+
+/**box3**/
