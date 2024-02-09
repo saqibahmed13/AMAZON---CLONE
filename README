@@ -1,0 +1,8 @@
+CDN : Content Delivery Network means there it will fetch the data from nearest Network 
+CDN will be used for new etc,
+Websites : 
+1. awesome fonts
+2. cdnjs.com  // we will add this link and will go to awesome fonts to use the icons
+
+
+rem : root em it will set the size based on root element in order to look responsive. 
