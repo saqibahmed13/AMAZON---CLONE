@@ -247,7 +247,23 @@ footer{
 .logo {
     background-image: url("/SVG/amazon_logo.png");
     height: 50px;
-    background-size: cover;   
+    background-size: cover;    
     width: 100px;
 
+}
+
+.footer-panel4{
+background-color: #0f1111;
+color: white;
+height: 80px;
+padding-top: 5px;
+text-align: center;
+}
+
+.pages{
+padding-top: 25px;
+}
+
+.copyright{
+    padding-top: 5px;
 }
